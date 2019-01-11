@@ -16,11 +16,11 @@
 	},
 	"BuildProducts": [
 		{
-			"Path": "$(ProjectDir)/Binaries/Mac/UE4Editor-BuildingEscape-2111.dylib",
+			"Path": "$(ProjectDir)/Binaries/Mac/UE4Editor-BuildingEscape-5980.dylib",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(ProjectDir)/Binaries/Mac/UE4Editor-BuildingEscape-2111.dSYM",
+			"Path": "$(ProjectDir)/Binaries/Mac/UE4Editor-BuildingEscape-5980.dSYM",
 			"Type": "SymbolFile"
 		},
 		{
